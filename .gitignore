@@ -1,0 +1,10 @@
+# Maven target directories
+**/target/
+**/*.jar
+
+# IDE files
+.idea/
+*.iml
+
+# System files
+desktop.ini
